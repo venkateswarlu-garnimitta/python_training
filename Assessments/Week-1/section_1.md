@@ -3,7 +3,6 @@
 ##  Section 1: Multiple Choice Questions
 
 
-
 1. **Which of the following is a valid Python variable name?**
 
    A. 2variable 
